@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429797823900",
+    "project_id": "csc4360-auth-app",
+    "storage_bucket": "csc4360-auth-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429797823900:android:5abf21ae74831ae89b2459",
+        "android_client_info": {
+          "package_name": "com.example.csc4360_auth_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbn2jASox6ZrDeioQvyf7rJDb8tN_a_c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
